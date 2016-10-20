@@ -1,7 +1,7 @@
 //-----------------------------------------------
 // http://playground.arduino.cc/Main/ReadingRPM
 // http://www.themakersworkbench.com/content/tutorial/reading-pc-fan-rpm-arduino
-// adapted sketch by Nicu FLORICA (niq_ro)
+// adapted sketch by Nicu FLORICA (niq_ro) - see video: https://youtu.be/jqF1CF34O2s
 
  volatile byte half_revolutions;
  unsigned int rpm;
