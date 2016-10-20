@@ -2,8 +2,9 @@
 // Author: Nick Gammon
 // Date: 10th February 2012
 // http://www.mikrocontroller.net/attachment/189505/Drehzahlmesser.ino
+// some changes by Nicu FLORICA (niq_ro) - see movie from https://youtu.be/9jCCoyg4wmA
 
- // source for LEDControl: http://embedded-lab.com/blog/?p=6862
+// source for LEDControl: http://embedded-lab.com/blog/?p=6862
 #include "LedControl.h" // https://github.com/wayoda/LedControl
 /*
  Now we need a LedControl to work with.
